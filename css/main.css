@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: "Open Sans";
+  font-family:"Open Sans"
 }
 
 *, *::before, *::after {
@@ -14,20 +14,19 @@ html {
 }
 
 h2 {
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(0,0,0,.5);
   color: #fff;
   font-size: 4rem;
   font-weight: bold;
   text-align: left;
   line-height: 1.4;
   display: inline;
-  margin-bottom: 2rem
 }
 
 p {
   color: #000;
   font-style: italic;
-  font-size: 2rem;
+  font-style: 2.0rem;
   text-align: left;
   margin-top: 1.5rem;
 }
@@ -36,7 +35,6 @@ p {
   position: relative;
   overflow: hidden;
   max-height: 500px;
-  transform: translateX(-50%);
 }
 
 .img-flex {
