@@ -35,3 +35,16 @@ p {
   width: 100%;
   display: block;
 }
+
+body {
+  margin: 0;
+}
+
+.banner-content {
+  transform: translateX(-50%);
+  left: 50%;
+  bottom: 0;
+  width: 100%;
+  max-width: 50em;
+  position: absolute;
+}
