@@ -36,6 +36,7 @@ p {
   position: relative;
   overflow: hidden;
   max-height: 500px;
+  transform: translateX(-50%);
 }
 
 .img-flex {
